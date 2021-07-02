@@ -1,0 +1,194 @@
+{
+  "codes": [
+    {
+      "trueId": 39,
+      "id": 32
+    },
+    {
+      "trueId": 40,
+      "id": 33
+    },
+    {
+      "trueId": 41,
+      "id": 34
+    },
+    {
+      "trueId": 42,
+      "id": 35
+    },
+    {
+      "trueId": 43,
+      "id": 36
+    },
+    {
+      "trueId": 44,
+      "id": 37
+    },
+    {
+      "trueId": 45,
+      "id": 38
+    },
+    {
+      "trueId": 46,
+      "id": 39
+    },
+    {
+      "trueId": 47,
+      "id": 40
+    },
+    {
+      "trueId": 48,
+      "id": 41
+    },
+    {
+      "trueId": 49,
+      "id": 42
+    },
+    {
+      "trueId": 50,
+      "id": 43
+    },
+    {
+      "trueId": 51,
+      "id": 44
+    },
+    {
+      "trueId": 52,
+      "id": 45
+    },
+    {
+      "trueId": 53,
+      "id": 46
+    },
+    {
+      "trueId": 54,
+      "id": 47
+    },
+    {
+      "trueId": 55,
+      "id": 48
+    },
+    {
+      "trueId": 56,
+      "id": 49
+    },
+    {
+      "trueId": 57,
+      "id": 50
+    },
+    {
+      "trueId": 58,
+      "id": 51
+    },
+    {
+      "trueId": 59,
+      "id": 52
+    },
+    {
+      "trueId": 60,
+      "id": 53
+    },
+    {
+      "trueId": 61,
+      "id": 54
+    },
+    {
+      "trueId": 62,
+      "id": 55
+    },
+    {
+      "trueId": 63,
+      "id": 56
+    },
+    {
+      "trueId": 64,
+      "id": 57
+    },
+    {
+      "trueId": 65,
+      "id": 58
+    },
+    {
+      "trueId": 66,
+      "id": 59
+    },
+    {
+      "trueId": 67,
+      "id": 60
+    },
+    {
+      "trueId": 68,
+      "id": 61
+    },
+    {
+      "trueId": 69,
+      "id": 62
+    },
+    {
+      "trueId": 70,
+      "id": 63
+    },
+    {
+      "trueId": 71,
+      "id": 64
+    },
+    {
+      "trueId": 72,
+      "id": 65
+    },
+    {
+      "trueId": 73,
+      "id": 66
+    },
+    {
+      "trueId": 74,
+      "id": 67
+    },
+    {
+      "trueId": 75,
+      "id": 68
+    },
+    {
+      "trueId": 76,
+      "id": 69
+    },
+    {
+      "trueId": 77,
+      "id": 70
+    },
+    {
+      "trueId": 78,
+      "id": 71
+    },
+    {
+      "trueId": 79,
+      "id": 72
+    }
+  ],
+  "guichets": [
+    {
+      "name": "A",
+      "idCurrent": 38,
+      "id": 1
+    },
+    {
+      "name": "B",
+      "idCurrent": 18,
+      "id": 2
+    },
+    {
+      "name": "C",
+      "idCurrent": 17,
+      "id": 3
+    }
+  ],
+  "curenum": [
+    {
+      "trueId": 79,
+      "id": 1
+    }
+  ],
+  "message": [
+    "Il file est vide"
+  ]
+}

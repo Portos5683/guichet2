@@ -1,0 +1,52 @@
+{
+  "clients": [
+    {
+      "nextPerso": "Helo",
+      "id": 204
+    },
+    {
+      "nextPerso": "Helo",
+      "id": 205
+    },
+    {
+      "nextPerso": "Helo",
+      "id": 206
+    },
+    {
+      "nextPerso": "Helo",
+      "id": 207
+    },
+    {
+      "nextPerso": "Helo",
+      "id": 208
+    }
+  ],
+  "clerks": [
+    {
+      "nameClerk": "pierre",
+      "idCurrent": 201,
+      "id": 1
+    },
+    {
+      "nameClerk": "phil",
+      "idCurrent": 120,
+      "id": 2
+    },
+    {
+      "nameClerk": "fifou",
+      "idCurrent": 201,
+      "id": 3
+    },
+    {
+      "nameClerk": "fifouhk",
+      "idCurrent": 201,
+      "id": 4
+    }
+  ],
+  "curenum": [
+    {
+      "idCurrent": 204,
+      "id": 1
+    }
+  ]
+}
